@@ -760,6 +760,9 @@ section.rubble_body .services h3 {
   section.rubble_body .featured .feature_one .info_Wrapper .strtg_wrp {
     margin-top: 30px;
   }
+  section.rubble_body .informative .inform_wrapper .individual .logo img {
+    width: 50px;
+  }
 }
 
 @media (max-width: 1200px) {
@@ -818,6 +821,9 @@ section.rubble_body .services h3 {
   }
   section.rubble_body .featured .feature_one .info_Wrapper .strtg_wrp .str_one span {
     min-height: 50px;
+  }
+  section.rubble_body .informative .inform_wrapper .individual .logo img {
+    width: 45px;
   }
 }
 
@@ -1189,6 +1195,9 @@ section.rubble_body .services h3 {
   section.rubble_body .services .row > div {
     padding-left: 12px !important;
     padding-right: 12px !important;
+  }
+  section.rubble_body .informative .inform_wrapper .individual .logo img {
+    width: 35px;
   }
 }
 /*# sourceMappingURL=style.css.map */
